@@ -12,4 +12,4 @@ To compress and mirror an image horizontally or vertically, run the program with
 \
 Decompression\
 To decompress a compressed image, run the program with the following arguments:\
-  ./quadtree -d <input_file> <output_file>\
+  ./quadtree -d <input_file> <output_file>
